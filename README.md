@@ -1,24 +1,33 @@
 # LoreVerse
 
-A buildless, responsive lore exploration MVP for the Marvel Cinematic Universe and HBO’s Game of Thrones.
+A buildless, responsive lore exploration app for the Marvel Cinematic Universe and HBO’s Game of Thrones.
 
 ## Run
 
-Serve `dist/` with any static server, for example `python3 -m http.server 4173 --directory dist`.
+Serve `dist/` with a static server: `python3 -m http.server 4173 --directory dist`.
 
-## Features
+## Game of Thrones reference
 
-- Two curated universe datasets with sourced summaries
-- Interactive SVG relationship graph with pan, zoom, and entity filters
-- Shortest connection paths using breadth-first search
-- Entity profiles, event timeline, guided paths, and keyword search
-- Viewing-progress filters applied across discovery and exploration
-- Browser-local bookmarks and viewing progress
+The complete user-provided guide is retained in `data/game-of-thrones-reference.md` and available from the in-app Reference guide. It covers all 15 sections and retains citations, grouped roles, canon caveats, mentioned-only figures, and unresolved fates.
+
+- 348 entries: 270 character entries (some grouped), 34 battles, 22 event/season entries, 10 creatures, and 12 family/collective entries.
+- 296 explicit, season-tagged relationships. Passing mentions are not automatically interpreted as relationships.
+- Principal characters are deliberately ordered first in the overview, directory, and equal-ranking search results.
+- Search, group filters, and pagination provide access to the full directory.
+- Timeline uses season and episode order instead of speculative dates.
+- Full biographies require All seasons because the supplied entries mix early and late outcomes. Events and relationships use season cutoffs; this is not episode-level protection. Viewing progress is stored separately for each universe.
+- The graph focuses on one entity and up to 23 neighbors to remain readable. Every available entity can be selected. Some minor entries have no curated graph relationships.
+
+## Update the reference
+
+Edit `data/game-of-thrones-reference.md`, then run `python3 scripts/import-got.py` and copy that source to `dist/game-of-thrones-reference.md`. The importer rebuilds `dist/got-data.js`. Editorial character order, ID aliases, and conservative reveal levels are in the importer. Explicit graph edges are in `dist/got-relations.js`; the expanded interface is in `dist/got-app.js`.
 
 ## Verify
 
-`node --check dist/app.js` and `node check.cjs`.
+Run `node --check dist/app.js`, `node --check dist/got-app.js`, `node check.cjs`, and `node check-got.cjs`.
+
+Checks cover reference preservation, famous-first ordering, all season cutoffs, graph endpoint/path integrity, source links, and safe Markdown rendering.
 
 ## Scope
 
-This is a working frontend MVP, not a comprehensive lore database. Search matches keywords; no LLM, semantic search, authentication, or backend database is connected. Spoiler filtering uses coarse milestones. Entries are original curated summaries, and continuity is explicitly separated. Fonts and atmospheric background use Google Fonts and Unsplash. All functional data ships locally. Add entities and relationships in `dist/app.js`.
+The MCU universe remains a curated sample. Search is keyword-based. No LLM or backend database is connected. Bookmarks and viewing progress are browser-local. The hosted site is public and has no login requirement. Fonts and the MCU atmospheric background use Google Fonts and Unsplash. All functional data ships locally.

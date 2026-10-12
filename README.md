@@ -30,4 +30,8 @@ Checks cover reference preservation, famous-first ordering, all season cutoffs, 
 
 ## Scope
 
-The MCU universe remains a curated sample. Search is keyword-based. No LLM or backend database is connected. Bookmarks and viewing progress are browser-local. The hosted site is public and has no login requirement. Fonts and the MCU atmospheric background use Google Fonts and Unsplash. All functional data ships locally.
+The MCU universe remains a curated sample. Search is keyword-based. No LLM or backend database is connected. Bookmarks and viewing progress are browser-local. The hosted site is public and has no login requirement. Fonts use Google Fonts. All functional data ships locally.
+
+## Glass theme and artwork
+
+`dist/glass.css` applies charcoal glass surfaces, restrained gold accents, responsive layouts, and reduced-motion/reduced-transparency support. Blur is limited to navigation, header and dialog surfaces. `dist/glass.js` supplies original inline SVG crest illustrations and monograms; no character or cast photos are used. Existing content, ordering and interactions remain intact.

@@ -35,3 +35,7 @@ The MCU universe remains a curated sample. Search is keyword-based. No LLM or ba
 ## Glass theme and artwork
 
 `dist/glass.css` applies charcoal glass surfaces, restrained gold accents, responsive layouts, and reduced-motion/reduced-transparency support. Blur is limited to navigation, header and dialog surfaces. `dist/glass.js` supplies original inline SVG crest illustrations and monograms; no character or cast photos are used. Existing content, ordering and interactions remain intact.
+
+## Painted portraits and liquid glass
+
+`dist/liquid.css` adds refractive rims, translucent panels and static ambient lighting. `dist/paintings.js` maps eight original AI-generated character paintings to the featured GOT characters. The optimized JPEGs are in `dist/assets/paintings/`; full prompts and provenance are in `data/portrait-prompts.json`. Other entries and failed image loads retain the original crests. Images are lazy-loaded, motion is optional, and mobile cards use opaque readable panels to limit blur cost.

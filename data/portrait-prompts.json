@@ -41,6 +41,81 @@
       "id": "ned",
       "file": "dist/assets/paintings/ned.jpg",
       "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Eddard Ned Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged man, shoulder length dark brown hair with grey streaks, close beard, heavy brown fur cloak, solemn expression, cold northern light"
+    },
+    {
+      "id": "bran",
+      "file": "dist/assets/paintings/bran.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Bran Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young adult man, straight dark brown hair, clean shaven, contemplative distant expression, dark northern wool cloak, winter grey background; recognizable as Bran Stark portrayed by Isaac Hempstead Wright"
+    },
+    {
+      "id": "theon-greyjoy",
+      "file": "dist/assets/paintings/theon-greyjoy.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Theon Greyjoy from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young adult man, wavy medium brown hair, faint stubble, haunted yet resolute eyes, dark weathered leather armour; recognizable as Theon portrayed by Alfie Allen"
+    },
+    {
+      "id": "hound",
+      "file": "dist/assets/paintings/hound.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Sandor Clegane, the Hound from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: large middle-aged man, long dark hair and stubble, distinctive healed burn scarring on right half of face without gore, battered steel armour, stern expression; recognizable as Sandor portrayed by Rory McCann"
+    },
+    {
+      "id": "brienne-of-tarth",
+      "file": "dist/assets/paintings/brienne-of-tarth.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Brienne of Tarth from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: tall strong adult woman, short blonde hair, pale blue eyes, earnest determined expression, practical steel plate armour, cold silver lighting; recognizable as Brienne portrayed by Gwendoline Christie"
+    },
+    {
+      "id": "tywin-lannister",
+      "file": "dist/assets/paintings/tywin-lannister.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Tywin Lannister from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: elderly aristocratic man, receding silver hair, neatly trimmed grey side whiskers, stern calculating eyes, dark red and gold noble armour; recognizable as Tywin portrayed by Charles Dance"
+    },
+    {
+      "id": "robb-stark",
+      "file": "dist/assets/paintings/robb-stark.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Robb Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young adult man, curly auburn brown hair, close beard, blue eyes, northern fur cloak over leather armour, resolute expression; recognizable as Robb portrayed by Richard Madden"
+    },
+    {
+      "id": "catelyn-stark",
+      "file": "dist/assets/paintings/catelyn-stark.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Catelyn Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged woman, auburn hair braided back, blue eyes, thoughtful solemn expression, dark blue noble gown with subtle silver clasp, river grey atmosphere; recognizable as Catelyn portrayed by Michelle Fairley"
+    },
+    {
+      "id": "jorah-mormont",
+      "file": "dist/assets/paintings/jorah-mormont.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Jorah Mormont from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged man, short receding sandy brown hair, close beard, weathered face, loyal serious expression, worn brown leather and steel armour; recognizable as Jorah portrayed by Iain Glen"
+    },
+    {
+      "id": "samwell-tarly",
+      "file": "dist/assets/paintings/samwell-tarly.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Samwell Tarly from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young adult heavyset man, short dark brown hair, soft round face and sparse beard, kind thoughtful expression, black Night's Watch cloak; recognizable as Samwell portrayed by John Bradley"
+    },
+    {
+      "id": "tormund-giantsbane",
+      "file": "dist/assets/paintings/tormund-giantsbane.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Tormund Giantsbane from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: broad adult warrior man, thick wild red beard, swept back red hair, pale blue eyes, rough fur and leather clothing, bold spirited expression; recognizable as Tormund portrayed by Kristofer Hivju"
+    },
+    {
+      "id": "margaery-tyrell",
+      "file": "dist/assets/paintings/margaery-tyrell.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Margaery Tyrell from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult woman, long wavy chestnut brown hair partially braided, poised clever smile, muted blue and gold noble gown with rose embroidery; recognizable as Margaery portrayed by Natalie Dormer"
+    },
+    {
+      "id": "littlefinger",
+      "file": "dist/assets/paintings/littlefinger.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Petyr Baelish, Littlefinger from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged man, neatly combed dark hair with grey temples, narrow moustache and small pointed goatee, watchful calculating eyes, dark high collar noble coat with small mockingbird brooch; recognizable as Littlefinger portrayed by Aidan Gillen"
+    },
+    {
+      "id": "davos-seaworth",
+      "file": "dist/assets/paintings/davos-seaworth.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Davos Seaworth from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: older man, short receding grey hair, close salt and pepper beard, kind weathered face, practical dark leather coat, sea grey background; recognizable as Davos portrayed by Liam Cunningham"
+    },
+    {
+      "id": "melisandre",
+      "file": "dist/assets/paintings/melisandre.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Melisandre from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult woman, long deep auburn red hair, composed mysterious expression, rich burgundy high neck gown and ruby pendant, warm candle glow; recognizable as Melisandre portrayed by Carice van Houten"
+    },
+    {
+      "id": "varys",
+      "file": "dist/assets/paintings/varys.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Varys from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Match a coherent gallery of painted GOT portraits. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged bald clean-shaven man, round face, subtle knowing expression, rich muted gold brocade robe with high collar, dim court atmosphere; recognizable as Varys portrayed by Conleth Hill"
     }
   ]
 }

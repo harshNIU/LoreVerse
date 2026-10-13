@@ -1,0 +1,46 @@
+{
+  "generator": "Built-in image generation",
+  "description": "Original AI-generated character interpretations, not official HBO stills or commissioned human artwork.",
+  "portraits": [
+    {
+      "id": "jon",
+      "file": "dist/assets/paintings/jon.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Jon Snow from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young man, long wavy black hair, short beard, black fur cloak, solemn grey eyes, snowy northern atmosphere"
+    },
+    {
+      "id": "dany",
+      "file": "dist/assets/paintings/dany.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Daenerys Targaryen from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young adult woman, long platinum blonde braided hair, dark regal gown with subtle dragon-scale detail, warm ember light"
+    },
+    {
+      "id": "tyrion",
+      "file": "dist/assets/paintings/tyrion.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Tyrion Lannister from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult dwarf man, wavy light brown hair, short beard, intelligent expression, burgundy and brown noble doublet"
+    },
+    {
+      "id": "arya",
+      "file": "dist/assets/paintings/arya.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Arya Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: young woman, brown hair tied back, grey leather traveling clothes, alert determined expression, blue grey background"
+    },
+    {
+      "id": "sansa-stark",
+      "file": "dist/assets/paintings/sansa-stark.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Sansa Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult woman, auburn red hair in elegant braids, dark northern gown, composed expression, winter grey atmosphere"
+    },
+    {
+      "id": "cersei-lannister",
+      "file": "dist/assets/paintings/cersei-lannister.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Cersei Lannister from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult woman, short golden blonde hair, small gold crown, black high-collared brocade gown, regal intense expression"
+    },
+    {
+      "id": "jaime-lannister",
+      "file": "dist/assets/paintings/jaime-lannister.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Jaime Lannister from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: adult man, golden brown hair and close beard, weathered golden plate armour, noble yet troubled expression"
+    },
+    {
+      "id": "ned",
+      "file": "dist/assets/paintings/ned.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: LoreVerse character card portrait. Create one original painted portrait of Eddard Ned Stark from Game of Thrones. STYLE: exquisite oil painting on textured canvas, visible impasto brushwork, dark romantic fantasy portrait, restrained charcoal, silver and antique gold, dramatic soft side light. Chest-up, face centered in upper half, full head with breathing room, vertical 3:4 composition. Distinct recognizable character appearance and costume. Moody abstract background, no words, no borders, no logos, no watermark. Not a screenshot or a photograph. SUBJECT: middle aged man, shoulder length dark brown hair with grey streaks, close beard, heavy brown fur cloak, solemn expression, cold northern light"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 // Original AI-generated oil-painting interpretations; prompts are in data/portrait-prompts.json.
-const paintedCharacters=new Set(['jon','dany','tyrion','arya','sansa-stark','cersei-lannister','jaime-lannister','ned']);
+const paintedCharacters=new Set(["jon", "dany", "tyrion", "arya", "sansa-stark", "cersei-lannister", "jaime-lannister", "ned", "bran", "theon-greyjoy", "hound", "brienne-of-tarth", "tywin-lannister", "robb-stark", "catelyn-stark", "jorah-mormont", "samwell-tarly", "tormund-giantsbane", "margaery-tyrell", "littlefinger", "davos-seaworth", "melisandre", "varys"]);
 const crestArtwork=art;
 art=n=>{
   if(universe!=='got'||!paintedCharacters.has(n.id))return crestArtwork(n);

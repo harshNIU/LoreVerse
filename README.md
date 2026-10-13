@@ -38,4 +38,4 @@ The MCU universe remains a curated sample. Search is keyword-based. No LLM or ba
 
 ## Painted portraits and liquid glass
 
-`dist/liquid.css` adds refractive rims, translucent panels and static ambient lighting. `dist/paintings.js` maps eight original AI-generated character paintings to the featured GOT characters. The optimized JPEGs are in `dist/assets/paintings/`; full prompts and provenance are in `data/portrait-prompts.json`. Other entries and failed image loads retain the original crests. Images are lazy-loaded, motion is optional, and mobile cards use opaque readable panels to limit blur cost.
+`dist/liquid.css` adds refractive rims, translucent panels and static ambient lighting. `dist/paintings.js` maps 23 original AI-generated character paintings to the first unfiltered directory page; the Night King retains his crest because image generation was unavailable. The optimized JPEGs are in `dist/assets/paintings/`; full prompts and provenance are in `data/portrait-prompts.json`. Other entries and failed image loads retain the original crests. Images are lazy-loaded, motion is optional, and mobile cards use opaque readable panels to limit blur cost.

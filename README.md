@@ -39,3 +39,7 @@ The MCU universe remains a curated sample. Search is keyword-based. No LLM or ba
 ## Painted portraits and liquid glass
 
 `dist/liquid.css` adds refractive rims, translucent panels and static ambient lighting. `dist/paintings.js` maps 23 original AI-generated character paintings to the first unfiltered directory page; the Night King retains his crest because image generation was unavailable. The optimized JPEGs are in `dist/assets/paintings/`; full prompts and provenance are in `data/portrait-prompts.json`. Other entries and failed image loads retain the original crests. Images are lazy-loaded, motion is optional, and mobile cards use opaque readable panels to limit blur cost.
+
+## House family trees
+
+The Family trees view covers 45 houses represented in the supplied HBO reference. It reuses character profiles and paintings, distinguishes biological, marital, other kinship and household ties, and respects season cutoffs. Unknown ancestry is left unconnected. Supplemental family relationships live in `dist/families-data.js`.
